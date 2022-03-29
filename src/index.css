@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+*{
+    font-family: 'Hind Siliguri', Arial;
+}
+
+body{
+    @apply bg-slate-100 dark:bg-slate-900
+}
+
+button, a {
+    -webkit-tap-highlight-color: transparent;
+}
