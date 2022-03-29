@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/whatsappur/static/css/main.a6ea5ad8.css",
+    "main.js": "/whatsappur/static/js/main.45dff66b.js",
+    "static/js/787.8288e0a9.chunk.js": "/whatsappur/static/js/787.8288e0a9.chunk.js",
+    "service-worker.js": "/whatsappur/service-worker.js",
+    "index.html": "/whatsappur/index.html",
+    "main.a6ea5ad8.css.map": "/whatsappur/static/css/main.a6ea5ad8.css.map",
+    "main.45dff66b.js.map": "/whatsappur/static/js/main.45dff66b.js.map",
+    "787.8288e0a9.chunk.js.map": "/whatsappur/static/js/787.8288e0a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ea5ad8.css",
+    "static/js/main.45dff66b.js"
+  ]
+}
